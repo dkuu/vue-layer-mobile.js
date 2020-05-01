@@ -1,6 +1,6 @@
 {
   "name": "vue-layer-mobile.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "layer.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkuu/vue-layer-mobile.js.git"
+    "url": "git+https://github.com/imydou/vue-layer-mobile.js.git"
   },
   "keywords": [
     "layer.js"
@@ -16,7 +16,7 @@
   "author": "imydou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dkuu/vue-layer-mobile.js/issues"
+    "url": "https://github.com/imydou/vue-layer-mobile.js/issues"
   },
-  "homepage": "https://github.com/dkuu/vue-layer-mobile.js#readme"
+  "homepage": "https://github.com/imydou/vue-layer-mobile.js#readme"
 }
